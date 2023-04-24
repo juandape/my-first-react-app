@@ -1,0 +1,34 @@
+*{
+  margin-left: 15px;
+  margin-right: 15px;
+}
+body {
+  font-family: "Space Mono";
+  margin: 50px;
+  max-width: 1440px;
+  height: auto;
+}
+
+.container{
+display: flex;
+margin-top: 100px;
+align-items: center;
+}
+
+.button {
+  background-color: #4f4f4f;
+  color: white;
+  padding: 15px;
+}
+
+.scarecrow {
+  width: 500px;
+  height: 500px;
+  margin-right: 40px;
+}
+
+@media (max-width: 375px) {
+    .container{
+    display:inline-table;
+    }
+}
