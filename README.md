@@ -5,7 +5,7 @@
 Take a build 404-Not found excercise page and construct a new page using React
 
 ## Screenshot
-![print screen](./my-first-react-app/src/assets/scarecrow.png)
+![print screen](./my-first-react-app/src/assets/404-react.png)
 ## My process
 ### Built with
 - Semantic markup using vscode editor
